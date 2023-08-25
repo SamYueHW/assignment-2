@@ -208,27 +208,6 @@ VScode PDDL Tutorial:
 
 [![](http://img.youtube.com/vi/XW0z8Oik6G8/0.jpg)](http://www.youtube.com/watch?v=XW0z8Oik6G8 "")
 
-## Submission Instructions
-
-**Tag your submission** to submit your assignment by completing the following three steps:
-
-1. Complete the [STUDENT.md](STUDENT.md) file with your details of the submission.
-2. Please ensure that your solution does not include personal information, like your student number or name. 
-3. Tag the commit version you want to be graded with tag `submission`. 
-    * The commit and tagging should be dated before the deadline.
-    * Note that a tag is NOT a branch, so do not just create a branch called "submission" as that will not amount to tagging.
-4. Fill the [Project 2 Certification Form](https://forms.gle/hqS6wtsW49in66hd7).
-    * Non-certified submissions will not be marked and will attract zero marks.
-    
-From this repository, we will copy *only* the PDDL files: [domain.pddl](pddl_template/domain.pddl), [problem1.pddl](pddl_template/problem1.pddl), [problem2.pddl](pddl_template/problem2.pddl), and [problem3.pddl](pddl_template/problem3.pddl). Please do not submit any other file with a different name as part of your solution, we will not be able to mark it. Breaking these instructions breaks our marking scripts, delays marks being returned, and more importantly, gives us a headache. Submissions not compatible with the instructions in this document will attract zero marks and do not warrant a re-submission. Staff will not fix your submission.
-
-Please view the following to learn how to *Tag* your commit version you want to be graded:
-
-**How to create a Tag using the Command Line**:
-https://www.loom.com/share/17ec72b954454bc89bbe1dbb0bd2874f
-
-**Another way to create a Tag using the User Interface**:
-https://www.loom.com/share/3cd39e97919e4b688d9841613aba6973
 
 ## Important information
 
