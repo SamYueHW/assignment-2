@@ -149,18 +149,22 @@ Your submission has three parts: a session saved on planning.domains; a PDF file
 
 ### planning.domains submission
 
-Copy the domain and problem files into a session at [editor online](editor.planning.domains) <!--https://tinyurl.com/comp90054. -->
-
-From the menu, select **Session** --> **Save** --> **Read only (link)** to get the session URL. See a video below showing how to do this.
+Copy the domain and problem files into a session at editor online [https://tinyurl.com/COMP90054-a2](https://tinyurl.com/COMP90054-a2). This is a session I've loaded with a new plugin "planning as a service", that lets you choose among several planners: BFWS and LAMA (suboptimal solutions - satisficing), FI top-k (returns a set of top plans), and Delfi (optimal planner).
 
 The online planner available in the editor is a satisficing planner, it is not guaranteed to return optimal solutions. If you want to test other planners locally, you can try installing them using [planutils](https://github.com/AI-Planning/planutils). You have to install docker, download the image, and follow the information in the Readme or this [video demo](https://slideslive.com/38984507/planutils-bringing-planning-to-the-masses). If you want to use an optimal planner, I'd recommend installing delfi. You can see all options via the command planutils help. See this [cheatsheet](https://drive.google.com/file/d/1jRL75lqHkWPMaODY7pFHkigGTWlcXg-F/view) for more information.
+
+
+Once you start working, make sure you save your work as a session and copy the link into a safe place so you can continue working whenever you need. 
+
+For your final submission, just go to the menu, select **Session** --> **Save** --> **Read only (link)** to get the session URL. See a video below showing how to do this.
+
 ### PDF report submission
 
 Your submission should contain a report that includes:
 
 1. Your unimelb student ID and student email address, and the name of anyone partner that you completed the assignment with.
 
-2. A link to the URL of your planning.domain session at [editor online](editor.planning.domains) <!--https://tinyurl.com/comp90054. -->
+2. A link to the URL of your planning.domains session at editor online [https://tinyurl.com/COMP90054-a2](https://tinyurl.com/COMP90054-a2) <!--https://tinyurl.com/comp90054. -->
 
 3. The PDDL domain file(s), cut and paste into the PDF report.
 
