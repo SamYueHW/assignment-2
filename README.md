@@ -149,17 +149,18 @@ Your submission has three parts: a session saved on planning.domains; a PDF file
 
 ### planning.domains submission
 
-Copy the domain and problem files into a session at https://tinyurl.com/comp90054. 
+Copy the domain and problem files into a session at [editor online](editor.planning.domains) <!--https://tinyurl.com/comp90054. -->
 
 From the menu, select **Session** --> **Save** --> **Read only (link)** to get the session URL. See a video below showing how to do this.
 
+The online planner available in the editor is a satisficing planner, it is not guaranteed to return optimal solutions. If you want to test other planners locally, you can try installing them using [planutils](https://github.com/AI-Planning/planutils). You have to install docker, download the image, and follow the information in the Readme or this [video demo](https://slideslive.com/38984507/planutils-bringing-planning-to-the-masses). If you want to use an optimal planner, I'd recommend installing delfi. You can see all options via the command planutils help. See this [cheatsheet](https://drive.google.com/file/d/1jRL75lqHkWPMaODY7pFHkigGTWlcXg-F/view) for more information.
 ### PDF report submission
 
 Your submission should contain a report that includes:
 
 1. Your unimelb student ID and student email address, and the name of anyone partner that you completed the assignment with.
 
-2. A link to the URL of your planning.domain session at https://tinyurl.com/comp90054
+2. A link to the URL of your planning.domain session at [editor online](editor.planning.domains) <!--https://tinyurl.com/comp90054. -->
 
 3. The PDDL domain file(s), cut and paste into the PDF report.
 
